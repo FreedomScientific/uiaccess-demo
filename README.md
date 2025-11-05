@@ -11,11 +11,11 @@ Missing UIAccess on Windows 11 24H2 when started using short path names.
 integrity level: 3000
 ui access: 1
 ```
-Process Explorer shows "UI Access" in the "UI Access" column.
+Process Explorer shows "UI Access" in the UI Access column.
 
-7. Open a command prompt and run: `"C:\PROGRA~1\uitest\uitest.exe"`. Output:
+6. Open a command prompt and run: `"C:\PROGRA~1\uitest\uitest.exe"`. Output:
 ```
 integrity level: 3000
 ui access: 0
 ```
-Process Explorer shows nothing in the "UI Access" column.
+Process Explorer shows nothing in the UI Access column.
