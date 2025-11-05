@@ -13,7 +13,7 @@ ui access: 1
 ```
 Process Explorer shows "UI Access" in the UI Access column.
 
-6. Open a command prompt and run: `"C:\PROGRA~1\uitest\uitest.exe"`. Output:
+6. Open an elevated command prompt and run: `"C:\PROGRA~1\uitest\uitest.exe"`. Output:
 ```
 integrity level: 3000
 ui access: 0
